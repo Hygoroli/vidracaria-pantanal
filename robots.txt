@@ -1,0 +1,6 @@
+# Robots.txt - Vidraçaria Pantanal Cuiabá MT
+User-agent: *
+Allow: /
+
+Sitemap: https://vidracariapantanal.com.br/sitemap.xml
+
