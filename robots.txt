@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vidracariapantanal.com.br/sitemap.xml
+Sitemap: https://hygoroli.github.io/vidracaria-pantanal/sitemap.xml
 
